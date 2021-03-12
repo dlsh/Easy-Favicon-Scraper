@@ -1,0 +1,26 @@
+{
+
+    "manifest_version": 2,
+    "name": "Easy Favicon Scraper",
+    "version": "1.0",
+
+    "description": "Download the favicon of a website with 1 click",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "icons": {
+        "48": "icons/beasts-48.png"
+    },
+
+    "permissions": [
+        "tabs",
+        "downloads"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/beasts-32.png",
+        "default_title": "Easy Favicon Scraper"
+    },
+
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
