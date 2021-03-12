@@ -7,7 +7,7 @@
     "description": "Download the favicon of a website with 1 click",
     "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
     "icons": {
-        "48": "icons/beasts-48.png"
+        "128": "icons/icon-128.png"
     },
 
     "permissions": [
@@ -16,7 +16,7 @@
     ],
 
     "browser_action": {
-        "default_icon": "icons/beasts-32.png",
+        "default_icon": "icons/icon-128-white.png",
         "default_title": "Easy Favicon Scraper"
     },
 
