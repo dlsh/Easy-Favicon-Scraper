@@ -5,7 +5,7 @@
     "version": "1.0",
 
     "description": "Download the favicon of a website with 1 click",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "homepage_url": "https://github.com/dlsh/Easy-Favicon-Scraper/README.md",
     "icons": {
         "128": "icons/icon-128.png"
     },
