@@ -16,8 +16,12 @@
     ],
 
     "browser_action": {
-        "default_icon": "icons/icon-128-white.png",
-        "default_title": "Easy Favicon Scraper"
+        "default_title": "Easy Favicon Scraper",
+        "theme_icons": [{
+            "light": "icons/icon-128-white.png",
+            "dark": "icons/icon-128.png",
+            "size": 128
+        }]
     },
 
     "background": {
